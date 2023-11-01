@@ -1,4 +1,4 @@
-![Screenshot (719)](https://github.com/ath3110/GroupGrow/assets/88778788/4e626d55-0141-489d-b569-21e822c1a485)# GroupGrow
+GroupGrow
 
 Please feel free to clone this repo. 
 
